@@ -1,0 +1,18 @@
+// var n = 2;
+// function square(num){
+//     var ans = num * num;
+//     return ans;
+// }
+// var square2 = square(n);
+// console.log(square2);
+
+// function a(){
+//     var b = 10;
+//     c();
+//     function c(){
+
+//     }
+// }
+// a();
+// console.log(b);
+
